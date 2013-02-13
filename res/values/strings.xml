@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PCControl</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Dummy Button</string>
+
+    <string name="menu_setting">Setting</string>
+    <string name="server_host">Server Host</string>
+    <string name="server_port">Server Port</string>
+    <string name="mouse_sensitivity">Mouse Sensitivity</string>
+    <string name="tapping_enable">Enable touchpad tapping</string>
+    <string name="connection_timeout">Connection Timeout</string>
+    
+    <string name="connection_lost">Connection Lost!</string>
+    <string name="timeout_warning">You have selected 0 for timeout which mean no timeout will be set. This might make this app not responding when host cannot be contact.\n\nClick OK to proceed or cancel to reset.</string>
+    <string name="timeout_too_long">Your timeout is too long and might cause this app not responding.\n\nClick OK to proceed or cancel to reset.</string>
+    <string name="warning_title">Warning</string>
+    
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="test_connection">Test Connection</string>
+    
+    <string name="empty_hostname_entered">Server host is required.</string>
+    <string name="succesfully_update_config">Successfully updated your configuration.</string>
+    
+    <string name="btn_save">Save</string>
+    
+</resources>
