@@ -6,12 +6,8 @@ import java.net.InetSocketAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-import android.util.Log;
-
 public class MouseSocketClient {
 	
-	private static final String TAG = "Client";
-
 	public static enum ButtonAction {
 		LEFT_CLICK, RIGHT_CLICK, DOUBLE_CLICK_LEFT
 	};
